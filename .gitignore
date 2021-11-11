@@ -29,6 +29,8 @@ ios/Flutter/flutter_export_environment.sh
 .pub/
 /build/
 
+windows/
+
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
