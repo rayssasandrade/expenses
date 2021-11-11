@@ -20,6 +20,8 @@ ios/Flutter/flutter_export_environment.sh
 # Visual Studio Code related
 .vscode/
 
+windows/
+
 # Flutter/Dart/Pub related
 **/doc/api/
 .dart_tool/
@@ -28,8 +30,6 @@ ios/Flutter/flutter_export_environment.sh
 .pub-cache/
 .pub/
 /build/
-
-windows/
 
 # Android related
 **/android/**/gradle-wrapper.jar
