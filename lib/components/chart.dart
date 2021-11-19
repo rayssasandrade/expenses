@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import '../model/Transaction.dart';
+import '../models/transaction.dart';
 import 'chart_bar.dart';
 
 class Chart extends StatelessWidget {
