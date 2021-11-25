@@ -2,7 +2,7 @@
 
 # Escopo e objetivo
 
-O projeto é a codificação de aplicativo móveis nativos e envolventes para Android e iOS com Flutter com interfaces responsivas e adaptativas. 
+O projeto é a codificação de um aplicativo móveis nativos e envolventes para Android e iOS com Flutter com interfaces responsivas e adaptativas de controle de finanças. 
 ### O app contempla:
 - NUllSafety 
 - Árvore de Widgets
