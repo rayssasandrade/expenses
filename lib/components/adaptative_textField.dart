@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart';
 import 'dart:io';
 
 class AdaptativeTextField extends StatelessWidget {
@@ -17,7 +18,7 @@ class AdaptativeTextField extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Platform.isIOS
+    return (defaultTargetPlatform == TargetPlatform.iOS)
         ? Padding(
             padding: const EdgeInsets.only(bottom: 10),
             child: CupertinoTextField(

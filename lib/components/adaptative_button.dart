@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart';
 import 'dart:io';
 
 class AdaptativeButton extends StatelessWidget {
@@ -10,7 +11,7 @@ class AdaptativeButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Platform.isIOS
+    return (defaultTargetPlatform == TargetPlatform.iOS)
         ? CupertinoButton(
             child: Text(label),
             onPressed: onPressed,
