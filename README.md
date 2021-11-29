@@ -25,8 +25,8 @@ O projeto é a codificação de um aplicativo móveis nativos e envolventes para
 
 ### Iniciando...
 
-- `git clone https://github.com/rayssasandrade/AspiradorDePo.git`
-- `cd AspiradorDePo`
+- `git clone https://github.com/rayssasandrade/expenses.git`
+- `cd expenses`
 - `flutter run`
 
 ### Resultado
