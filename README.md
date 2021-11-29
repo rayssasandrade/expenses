@@ -25,13 +25,8 @@ O projeto é a codificação de um aplicativo móveis nativos e envolventes para
 
 ### Iniciando...
 
-<<<<<<< HEAD
-- `git clone https://github.com/rayssasandrade/meals.git`
-- `cd meals`
-=======
 - `git clone https://github.com/rayssasandrade/expenses.git`
 - `cd expenses`
->>>>>>> f502b3f0ee2581d616f6f66bc3bd7bec8c9bce24
 - `flutter run`
 
 ### Resultado
